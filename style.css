@@ -1,0 +1,19 @@
+.canvas {
+	width:  250px;
+	height: 125px;
+	border: solid 5px;
+	margin: 5px;
+	border-radius: 10px;
+}
+
+.canvasSet {
+	width: 250px;
+	height: 125px;
+	border: solid 5px red;
+	margin: 5px;
+	border-radius: 10px;	
+}
+
+.spacing {
+	margin: 10px;
+}
